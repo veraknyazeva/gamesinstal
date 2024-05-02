@@ -1,0 +1,12 @@
+src создан 
+res создан 
+savegames создан
+temp создан
+main создан
+test создан
+Файл Main.java был создан
+Файл Utils.java был создан
+drawables создан
+vectors создан
+icons создан
+Файл temp.java был создан
